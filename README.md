@@ -1,2 +1,3 @@
-# web-scrapping
-Web scrapping the weather  and data for the planet Mars 
+# Web-Design-Challenge
+
+Creating a dashboard to display weather data through web visualization. There are several individual pages including a scroll down menu for easy navigation of the web visualization.
